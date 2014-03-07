@@ -14,8 +14,12 @@ When we talk about how to do SQA, we need SQE to do this quality assurance in en
 **Rate 5 classmates**
 
 Feng Xiangmin 13126069 A
+
 Huang MingEn 13126083 A
+
 YangRui 13126158 A
+
 Guo Yujing 13126076 A
+
 Chu Xiaowei B
 
