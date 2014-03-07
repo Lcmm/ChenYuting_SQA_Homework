@@ -1,7 +1,5 @@
 # Understanding for SQA #
 
-----------
-
 
 In my opinion, SQA is a process that taken in the software life cycle to make sure the software would meet the quality expectation with some stantards, steps and practices. It covers almost every phases in sofware life cycle, from planning, designing, realization and testing.
 
