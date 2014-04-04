@@ -1,6 +1,5 @@
 #Understanding of formal methods and model checking #
 
-----------
 
 **formal methods in general**
 
