@@ -1,7 +1,7 @@
 #Pairwise comparisons between testing and other QA alternatives #
 
 
-**Testing vs. preventive actions**
+**Testing vs. Preventive actions**
 
 - Different applicability to maintenance
 - Objects QA activities applied on different things:
@@ -17,7 +17,7 @@
 
      dynamic failures & related faults VS. negating causes or pre-conditions to pervasive problems
 
-**Testing vs. formal verification**
+**Testing vs. Formal verification**
 
 - tesing is important link in dev. process
 - defect situations:
@@ -28,7 +28,7 @@
     moderate vs hight
 - Different development phases
 
-**testing vs. Inspection**
+**Testing vs. Inspection**
 
 - Existence of the implemented product
 - Levels of quality/defects
@@ -38,7 +38,7 @@
 - phases and transitions
 - inspection of testing entities/processes
 
-**testing vs. fault tolerance**
+**Testing vs. Fault tolerance**
 
 - Problem or defect types:
 
